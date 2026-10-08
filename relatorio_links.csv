@@ -1,0 +1,206 @@
+numero,texto,url,status
+3,Python,https://www.python.org/,200
+4,PSF,https://www.python.org/psf/,200
+5,Docs,https://docs.python.org,200
+6,PyPI,https://pypi.org/,200
+7,Jobs,https://www.python.org/jobs/,200
+8,Community,https://www.python.org/community/,200
+10,[Link sem texto],https://www.python.org/,200
+11,Donate,https://donate.python.org/,200
+18,LinkedIn,https://www.linkedin.com/company/python-software-foundation/,999
+19,Mastodon,https://fosstodon.org/@ThePSF,200
+20,Chat on IRC,https://www.python.org/community/irc/,200
+21,Twitter,https://twitter.com/ThePSF,200
+22,About,https://www.python.org/about/,200
+23,Applications,https://www.python.org/about/apps/,200
+24,Quotes,https://www.python.org/about/quotes/,200
+25,Getting Started,https://www.python.org/about/gettingstarted/,200
+26,Help,https://www.python.org/about/help/,200
+27,Downloads,https://www.python.org/downloads/,200
+28,All releases,https://www.python.org/downloads/,200
+29,Source code,https://www.python.org/downloads/source/,200
+30,Windows,https://www.python.org/downloads/windows/,200
+31,macOS,https://www.python.org/downloads/macos/,200
+32,Android,https://www.python.org/downloads/android/,200
+33,iOS,https://www.python.org/downloads/ios/,200
+34,Other Platforms,https://www.python.org/download/other/,200
+35,License,https://docs.python.org/3/license.html,200
+36,Alternative Implementations,https://www.python.org/download/alternatives,200
+37,Documentation,https://www.python.org/doc/,200
+38,Docs,https://www.python.org/doc/,200
+39,Audio/Visual Talks,https://www.python.org/doc/av,200
+40,Beginner's Guide,https://wiki.python.org/moin/BeginnersGuide,200
+41,FAQ,https://docs.python.org/3/faq/,200
+42,Non-English Docs,https://translations.python.org/,200
+43,PEP Index,https://peps.python.org,200
+44,Python Books,https://wiki.python.org/moin/PythonBooks,200
+45,Python Essays,https://www.python.org/doc/essays/,200
+46,Community,https://www.python.org/community/,200
+47,Diversity,https://www.python.org/community/diversity/,200
+48,Mailing Lists,https://www.python.org/community/lists/,200
+49,IRC,https://www.python.org/community/irc/,200
+50,Forums,https://www.python.org/community/forums/,200
+51,PSF Annual Impact Report,https://www.python.org/psf/annual-report/2024/,200
+52,Python Conferences,https://www.python.org/community/workshops/,200
+53,Special Interest Groups,https://www.python.org/community/sigs/,200
+54,Python Logo,https://www.python.org/community/logos/,200
+55,Python Wiki,https://wiki.python.org/moin/,200
+56,Code of Conduct,https://www.python.org/psf/conduct/,200
+57,Community Awards,https://www.python.org/community/awards,200
+58,Get Involved,https://www.python.org/psf/get-involved/,200
+59,Shared Stories,https://www.python.org/psf/community-stories/,200
+60,Success Stories,https://www.python.org/success-stories/,200
+61,Arts,https://www.python.org/success-stories/category/arts/,200
+62,Business,https://www.python.org/success-stories/category/business/,200
+63,Education,https://www.python.org/success-stories/category/education/,200
+64,Engineering,https://www.python.org/success-stories/category/engineering/,200
+65,Government,https://www.python.org/success-stories/category/government/,200
+66,Scientific,https://www.python.org/success-stories/category/scientific/,200
+67,Software Development,https://www.python.org/success-stories/category/software-development/,200
+68,News,https://www.python.org/blogs/,200
+69,Python News,https://www.python.org/blogs/,200
+70,PSF Newsletter,https://www.python.org/psf/newsletter/,200
+71,PSF News,https://pyfound.blogspot.com,200
+72,PyCon US News,https://pycon.blogspot.com/,200
+73,Python Insider,https://blog.python.org,200
+74,News from the Community,https://planetpython.org/,200
+75,Events,https://www.python.org/events/,200
+76,Python Events,https://www.python.org/events/python-events/,200
+77,User Group Events,https://www.python.org/events/python-user-group/,200
+78,Python Events Archive,https://www.python.org/events/python-events/past/,200
+79,User Group Events Archive,https://www.python.org/events/python-user-group/past/,200
+80,Submit an Event,https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,200
+81,">_
+                        Launch Interactive Shell",https://www.python.org/shell/,200
+82,More about defining functions,https://docs.python.org/3/tutorial/controlflow.html#defining-functions,200
+83,More control flow tools,https://docs.python.org/3/tutorial/controlflow.html,200
+84,More about lists,https://docs.python.org/3/tutorial/introduction.html#lists,200
+85,More about simple math functions,https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator,200
+86,Whet your appetite,https://docs.python.org/3/tutorial/,200
+87,Learn More,https://www.python.org/doc/,200
+88,Start with our Beginner’s Guide,https://www.python.org/about/gettingstarted/,200
+89,Python 3.14.8,https://www.python.org/downloads/release/python-3148/,200
+90,docs.python.org,https://docs.python.org,200
+91,jobs.python.org,https://jobs.python.org,200
+92,More news,https://www.python.org/blogs/,200
+93,"PSF News: Board & Inaugural Python Packaging Council Election Results, Strategic Plan, and PyPI Security",https://mailchi.mp/python/python-software-foundation-july-2024-newsletter-19889889,200
+94,Python 3.15.0 candidate 3 is here!,https://blog.python.org/2026/10/python-3150-rc3/,200
+95,"Python 3.10.22, 3.11.17, 3.12.15, 3.13.16 and 3.14.8 are now available!",https://blog.python.org/2026/10/python-31022-31117/,200
+96,Python Language Summit 2026 blog posts are now available,https://pyfound.blogspot.com/2026/09/python-language-summit-2026.html,200
+97,Python Language Summit 2026,https://blog.python.org/2026/09/language-summit-2026/,200
+98,More,https://www.python.org/events/calendars/,200
+99,PyCon Greece 2026,https://www.python.org/events/python-events/2118/,200
+100,PyCon NL 2026,https://www.python.org/events/python-events/2189/,200
+101,PyCon Ireland 2026,https://www.python.org/events/python-events/2183/,200
+102,PyCon Taiwan,https://www.python.org/events/python-events/2203/,200
+103,PyCon Panamá 2026,https://www.python.org/events/python-events/2211/,200
+104,More,https://www.python.org/success-stories/,200
+105,"""Some of the things [SonarCloud] spots are impressive (probably driven by some introspection and/or type inference), not just the simple pattern matching that I am used to in most of the flake8 ecosystem.""
+- Peter J. A. Cock - maintainer of BioPython",https://www.python.org/success-stories/deliver-clean-and-safe-code-for-your-python-applications/,200
+106,Deliver Clean and Safe Code for Your Python Applications,https://www.python.org/success-stories/deliver-clean-and-safe-code-for-your-python-applications/,200
+107,More,https://www.python.org/about/apps,200
+108,Django,https://www.djangoproject.com/,200
+109,Pyramid,https://trypyramid.com/,200
+110,Bottle,https://bottlepy.org,200
+111,Tornado,https://www.tornadoweb.org/,200
+112,Flask,https://flask.palletsprojects.com/,200
+113,Litestar,https://litestar.dev/,200
+114,FastAPI,https://fastapi.tiangolo.com/,200
+115,tkInter,https://en.wikipedia.org/wiki/Tkinter,403
+116,PyGObject,https://pygobject.gnome.org/,200
+117,PyQt,https://riverbankcomputing.com/software/pyqt/intro,200
+118,PySide,https://wiki.qt.io/Qt_for_Python,200
+119,Kivy,https://kivy.org/,200
+120,wxPython,https://www.wxpython.org/,200
+121,DearPyGui,https://dearpygui.readthedocs.io/en/latest/,200
+122,PyTorch,https://pytorch.org/,200
+123,TensorFlow,https://www.tensorflow.org/,200
+124,scikit-learn,https://scikit-learn.org/,200
+125,Transformers,https://huggingface.co/docs/transformers/,200
+126,Anthropic,https://docs.anthropic.com/,200
+127,LangChain,https://langchain.com/,200
+128,SciPy,https://scipy.org/,200
+129,Pandas,https://pandas.pydata.org/,200
+130,IPython,https://ipython.org/,200
+131,Buildbot,https://buildbot.net/,200
+133,Roundup,https://www.roundup-tracker.org/,200
+134,Ansible,https://docs.ansible.com/,200
+135,Salt,https://saltproject.io/,200
+136,OpenStack,https://www.openstack.org/,200
+137,xonsh,https://xon.sh/,200
+138,Python Software Foundation,https://www.python.org/psf/,200
+139,Learn more,https://www.python.org/psf/,200
+140,Become a Member,https://www.python.org/psf/membership/,200
+141,Donate to the PSF,https://www.python.org/psf/donations/,200
+143,About,https://www.python.org/about/,200
+144,Applications,https://www.python.org/about/apps/,200
+145,Quotes,https://www.python.org/about/quotes/,200
+146,Getting Started,https://www.python.org/about/gettingstarted/,200
+147,Help,https://www.python.org/about/help/,200
+148,Downloads,https://www.python.org/downloads/,200
+149,All releases,https://www.python.org/downloads/,200
+150,Source code,https://www.python.org/downloads/source/,200
+151,Windows,https://www.python.org/downloads/windows/,200
+152,macOS,https://www.python.org/downloads/macos/,200
+153,Android,https://www.python.org/downloads/android/,200
+154,iOS,https://www.python.org/downloads/ios/,200
+155,Other Platforms,https://www.python.org/download/other/,200
+156,License,https://docs.python.org/3/license.html,200
+157,Alternative Implementations,https://www.python.org/download/alternatives,200
+158,Documentation,https://www.python.org/doc/,200
+159,Docs,https://www.python.org/doc/,200
+160,Audio/Visual Talks,https://www.python.org/doc/av,200
+161,Beginner's Guide,https://wiki.python.org/moin/BeginnersGuide,200
+162,FAQ,https://docs.python.org/3/faq/,200
+163,Non-English Docs,https://translations.python.org/,200
+164,PEP Index,https://peps.python.org,200
+165,Python Books,https://wiki.python.org/moin/PythonBooks,200
+166,Python Essays,https://www.python.org/doc/essays/,200
+167,Community,https://www.python.org/community/,200
+168,Diversity,https://www.python.org/community/diversity/,200
+169,Mailing Lists,https://www.python.org/community/lists/,200
+170,IRC,https://www.python.org/community/irc/,200
+171,Forums,https://www.python.org/community/forums/,200
+172,PSF Annual Impact Report,https://www.python.org/psf/annual-report/2024/,200
+173,Python Conferences,https://www.python.org/community/workshops/,200
+174,Special Interest Groups,https://www.python.org/community/sigs/,200
+175,Python Logo,https://www.python.org/community/logos/,200
+176,Python Wiki,https://wiki.python.org/moin/,200
+177,Code of Conduct,https://www.python.org/psf/conduct/,200
+178,Community Awards,https://www.python.org/community/awards,200
+179,Get Involved,https://www.python.org/psf/get-involved/,200
+180,Shared Stories,https://www.python.org/psf/community-stories/,200
+181,Success Stories,https://www.python.org/success-stories/,200
+182,Arts,https://www.python.org/success-stories/category/arts/,200
+183,Business,https://www.python.org/success-stories/category/business/,200
+184,Education,https://www.python.org/success-stories/category/education/,200
+185,Engineering,https://www.python.org/success-stories/category/engineering/,200
+186,Government,https://www.python.org/success-stories/category/government/,200
+187,Scientific,https://www.python.org/success-stories/category/scientific/,200
+188,Software Development,https://www.python.org/success-stories/category/software-development/,200
+189,News,https://www.python.org/blogs/,200
+190,Python News,https://www.python.org/blogs/,200
+191,PSF Newsletter,https://www.python.org/psf/newsletter/,200
+192,PSF News,https://pyfound.blogspot.com,200
+193,PyCon US News,https://pycon.blogspot.com/,200
+194,Python Insider,https://blog.python.org,200
+195,News from the Community,https://planetpython.org/,200
+196,Events,https://www.python.org/events/,200
+197,Python Events,https://www.python.org/events/python-events/,200
+198,User Group Events,https://www.python.org/events/python-user-group/,200
+199,Python Events Archive,https://www.python.org/events/python-events/past/,200
+200,User Group Events Archive,https://www.python.org/events/python-user-group/past/,200
+201,Submit an Event,https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event,200
+202,Contributing,https://www.python.org/dev/,200
+203,Developer's Guide,https://devguide.python.org/,200
+204,Issue Tracker,https://github.com/python/cpython/issues,200
+205,python-dev list,https://mail.python.org/mailman/listinfo/python-dev,200
+206,Core Mentorship,https://www.python.org/dev/core-mentorship/,200
+207,Report a Security Issue,https://www.python.org/dev/security/,200
+209,Help & General Contact,https://www.python.org/about/help/,200
+210,Diversity Initiatives,https://www.python.org/community/diversity/,200
+211,Submit Website Bug,https://github.com/python/pythondotorg/issues,200
+212,Status,https://status.python.org/,200
+213,Python Software Foundation,https://www.python.org/psf-landing/,200
+214,Legal Statements,https://www.python.org/about/legal/,200
+215,Privacy Notice,https://policies.python.org/python.org/Privacy-Notice/,200
